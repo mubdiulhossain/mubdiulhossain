@@ -8,12 +8,13 @@ I focus on bridging innovation with usability.
 
 ---
 
-### 🚀 About Me
-- 🧠 Experienced in **AI, Deep Learning, and Computer Vision**, specializing in medical imaging (retinal analysis).  
-- 💻 2+ years of combined **research and software development** experience in **Android (Kotlin)**, **Python**, and **Laravel**.  
-- 🏆 Winner of **4 international innovation awards** and author of **3 Scopus-indexed publications**.  
-- 🎓 M.Sc. (Research) in Information Technology, **Multimedia University**, Malaysia.  
-- 🔬 Creator of **mRIA**, an AI-driven mobile app for Diabetic Retinopathy screening.
+### About Me
+- Experienced in **AI, Deep Learning, and Computer Vision**, specializing in medical imaging (retinal analysis).  
+- 2+ years of combined **research and software development** experience in **Android (Kotlin)**, **Python**, and **Laravel**.  
+- Winner of **4 international innovation awards** and author of **3 Scopus-indexed publications**.  
+- M.Sc. (Research) in Information Technology, **Multimedia University**, Malaysia.
+- B.Comp.Sci. in Software Engineering, **Multimedia University**, Malaysia.
+- Creator of **mRIA**, an AI-driven mobile app for Diabetic Retinopathy screening.
 
 ---
 
@@ -38,10 +39,10 @@ I focus on bridging innovation with usability.
 
 ---
 
-### 🏅 Highlights
-- 🥇 **4× International Awards** (including ITEX Gold & MTE Outstanding Innovation)  
-- 🧾 **3 Scopus-Indexed Publications** on AI-driven retinal image analysis  
-- 🤝 Invited by Malaysia’s **Ministry of Economics** to present AI work (2024)
+### Highlights
+- **4× International Awards** (including ITEX Gold & MTE Outstanding Innovation)  
+- **3 Scopus-Indexed Publications** on AI-driven retinal image analysis  
+- Invited by Malaysia’s **Ministry of Economics** to present AI work (2024)
 
 ---
 
