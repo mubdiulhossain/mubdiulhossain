@@ -28,13 +28,13 @@ I focus on bridging innovation with usability.
 ---
 
 ### 🧩 Featured Projects
-- **[mRIA – Mobile Retinal Image Analysis](https://github.com/mubdiulhossain/mRIA)**  
+- **[mRIA – Mobile Retinal Image Analysis (Private for now)](https://github.com/mubdiulhossain/mRIA)**  
   Award-winning AI Android app for diabetic retinopathy detection using Python (Computer Vision) and TFLite (Deep Learning).
 
-- **[Player & Inventory Analytics API](https://github.com/mubdiulhossain/analytics-api)**  
+- **[Player & Inventory Analytics API (Private for now)](https://github.com/mubdiulhossain/analytics-api)**  
   API built with Laravel + LEMP stack to analyze user metrics from 2000+ records.  
 
-- **[Airline Management System](https://github.com/mubdiulhossain/airline-management)**  
+- **[Airline Management System (Private for now)](https://github.com/mubdiulhossain/airline-management)**  
   Android app implementing MVVM architecture with Firebase integration.
 
 ---
