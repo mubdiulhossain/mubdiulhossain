@@ -1,7 +1,7 @@
 # Portfolio update WIP
-# 👋 Hi, I'm Mubdiul Hossain  
+# Hi, I'm Mubdiul Hossain  
 
-🎯 **Software Developer | AI & Computer Vision Researcher | Android + Web Enthusiast**
+ **Software Developer | AI & Computer Vision Researcher | Android + Web Enthusiast**
 
 I’m passionate about transforming research and ideas into intelligent, real-world software.  
 With hands-on experience in **AI-powered Android apps**, **backend development**, and **computer vision**,  
@@ -19,7 +19,7 @@ I focus on bridging innovation with usability.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 **Languages:** Kotlin, Python, Java, PHP, JavaScript, C++, C  
 **AI & CV:** TensorFlow, Keras, TFLite, CNN, OpenCV, Scikit-learn  
 **Web & Backend:** Laravel, Django, REST APIs, MySQL, PostgreSQL, LEMP  
@@ -28,7 +28,7 @@ I focus on bridging innovation with usability.
 
 ---
 
-### 🧩 Featured Projects
+### Featured Projects
 - **[mRIA – Mobile Retinal Image Analysis (Private for now)](https://github.com/mubdiulhossain/mRIA)**  
   Award-winning AI Android app for diabetic retinopathy detection using Python (Computer Vision) and TFLite (Deep Learning).
 
@@ -47,11 +47,11 @@ I focus on bridging innovation with usability.
 
 ---
 
-### 📫 Connect with Me
-🌐 [LinkedIn](https://www.linkedin.com/in/mubdiul/)  
-💻 [GitHub](https://github.com/mubdiulhossain)  
-✉️ [Email](mailto:mubdiul@outlook.com)
+### Connect with Me
+ [LinkedIn](https://www.linkedin.com/in/mubdiul/)  
+ [GitHub](https://github.com/mubdiulhossain)  
+ [Email](mailto:mubdiul@outlook.com)
 
 ---
 
-⭐ _“Turning complex algorithms into simple, impactful experiences.”_
+ _“Turning complex algorithms into simple, impactful experiences.”_
