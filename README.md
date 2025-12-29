@@ -1,7 +1,7 @@
 # Portfolio update WIP
 # Hi, I'm Mubdiul Hossain  
 
- **Software Developer | AI & Computer Vision Researcher | Android + Web Enthusiast**
+ ** AI & Computer Vision Researcher | Software Developer | Android + Web Enthusiast**
 
 I’m passionate about transforming research and ideas into intelligent, real-world software.  
 With hands-on experience in **AI-powered Android apps**, **backend development**, and **computer vision**,  
@@ -11,7 +11,7 @@ I focus on bridging innovation with usability.
 
 ### About Me
 - Experienced in **AI, Deep Learning, and Computer Vision**, specializing in medical imaging (retinal analysis).  
-- 2+ years of combined **research and software development** experience in **Android (Kotlin)**, **Python**, and **Laravel**.  
+- 3 years of combined **research and software development** experience in **Android (Kotlin)**, **Python**, and **Laravel**.  
 - Winner of **4 international innovation awards** and author of **3 Scopus-indexed publications**.  
 - M.Sc. (Research) in Information Technology, **Multimedia University**, Malaysia.
 - B.Comp.Sci. in Software Engineering, **Multimedia University**, Malaysia.
@@ -50,8 +50,6 @@ I focus on bridging innovation with usability.
 ### Connect with Me
  [LinkedIn](https://www.linkedin.com/in/mubdiul/)  
  [GitHub](https://github.com/mubdiulhossain)  
- [Email](mailto:mubdiul@outlook.com)
+ [Email](mailto:hossainmubdiul@gmail.com)
 
 ---
-
- _“Turning complex algorithms into simple, impactful experiences.”_
